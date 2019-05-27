@@ -1,0 +1,38 @@
+p {
+    line-height: 40px;
+    font-size: 17px;
+    text-indent: 80px;
+}
+
+#basics li a {
+    color: black !important;
+}
+
+.buyingInfo {
+    margin-bottom: 50px;
+}
+
+.imgWrap {
+    height: auto !important;
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+}
+
+.top {
+    background-image: url("../images/Cello.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -800px;
+    color: white;
+}
+
+.nav li a {
+    color: white !important;
+}
+
+.black {
+    background-color: black;
+    height: 100vh;
+    opacity: .6;
+}
+

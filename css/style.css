@@ -1,0 +1,155 @@
+body {
+    font-family: 'Montaga', serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+hr {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+img {
+    height: 300px;
+}
+
+footer {
+    background-color: #f5f5f5;
+    margin-bottom: 0px !important;
+}
+
+footer p {
+    text-indent: 0px !important;
+}
+
+footer li a {
+    color: black !important;
+}
+
+#basics {
+    width: 200px !important;
+}
+
+#basics li {
+    border-bottom: solid black 1px;
+    width: 200px;
+}
+
+.bottomNav #basics li a {
+    border-left: none !important;
+}
+
+.bottomNav {
+    margin-top: 18px;
+}
+
+.bottomNav li a {
+    border-left: solid 2px black;
+    padding-left: 10px;
+}
+
+.mw {
+    margin-top: 60px;
+}
+
+.mw a {
+    color: black;
+    font-size: 18px;
+}
+
+.color {
+    color: #2db65b;
+}
+
+.top {
+    height: 100vh;
+}
+
+.info {
+    margin-top: 100px;
+}
+
+.info div {
+    height: 400px !important;
+}
+
+.basics {
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+
+.basics p {
+    margin-bottom: 50px;
+}
+
+.basics a {
+    color: white;
+    font-size: 18px;
+    border: solid 1px white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.theory {
+    height: 300px;
+    padding: 50px;
+}
+
+.theory p {
+    margin-bottom: 50px;
+}
+
+.theory a {
+    color: black;
+    font-size: 18px;
+    border: solid 1px black;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.advanced {
+    color: white;
+    background-color: black;
+    width: 100vw !important;
+    padding: 50px;
+}
+
+.advanced p {
+    margin-bottom: 50px;
+}
+
+.advanced a {
+    color: white;
+    font-size: 18px;
+    border: solid 1px white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.nav {
+    margin-bottom: 20px;
+}
+
+.nav li {
+    text-align: center;
+}
+
+.nav li a {
+    color: black !important;
+    font-size: 16px;
+    text-align: center;
+}
+
+.imgWrap {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

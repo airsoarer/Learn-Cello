@@ -4,16 +4,24 @@ p {
     text-indent: 80px;
 }
 
+b {
+    font-weight: 900 !important;
+}
+
 @media screen and (max-width: 601px){
     .top {
         background-position-y: 0px !important;
-        background-position-x: -200px !important;
+        background-position-x: -200px;
     }
 
     .nav li a {
         color: black !important;
         font-size: 18px;
         font-weight: 900;
+    }
+
+    iframe {
+        margin-bottom: 25px;
     }
 }
 
@@ -23,23 +31,19 @@ p {
     }
 }
 
-.imgWrap img {
-    margin-bottom: 40px;
-}
-
 .sidenav-trigger {
     color: white;
 }
 
-.practiceInfo {
+.advancedInfo {
     margin-bottom: 50px;
 }
 
 .top {
-    background-image: url("../images/practice.webp");
+    background-image: url("../images/bowOnString.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    /* background-position-x: -200px; */
     color: white;
 }
 

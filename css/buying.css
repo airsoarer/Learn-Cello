@@ -4,8 +4,34 @@ p {
     text-indent: 80px;
 }
 
+@media screen and (max-width: 601px){
+    .top {
+        background-position-y: 0px !important;
+    }
+
+    hr {
+        margin-bottom: 40px !important;
+    }
+
+    .nav li a {
+        color: black !important;
+        font-size: 18px;
+        font-weight: 900;
+    }
+}
+
+@media screen and (min-width: 601px){
+    .nav li a {
+        color: white !important;
+    }
+}
+
 #basics li a {
     color: black !important;
+}
+
+.sidenav-trigger {
+    color: white;
 }
 
 .buyingInfo {
@@ -24,10 +50,6 @@ p {
     background-size: cover;
     background-position-y: -800px;
     color: white;
-}
-
-.nav li a {
-    color: white !important;
 }
 
 .black {

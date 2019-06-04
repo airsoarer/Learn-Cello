@@ -4,6 +4,7 @@
     function init(){
         $('.dropdown-trigger').dropdown();
         $('.sidenav').sidenav();
+        $('.modal').modal();
         $("#arrow").on('click', scrollDown);
     }
 

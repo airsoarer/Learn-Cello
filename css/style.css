@@ -110,6 +110,7 @@ footer li a {
     background-color: black;
     color: white;
     padding: 50px;
+    width: 100vw !important;
 }
 
 .basics p {

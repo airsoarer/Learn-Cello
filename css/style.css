@@ -202,6 +202,10 @@ footer li a {
     bottom: 125px;
 }
 
+.mw p {
+    margin-bottom: 20px !important;
+}
+
 .mw ul li {
     line-height: 40px;
     list-style-type: disc;

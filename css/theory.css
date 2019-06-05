@@ -37,8 +37,8 @@ p {
 .top {
     background-image: url("../images/quaver.png");
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: -200px;
+    background-size: contain;
+    background-position-x: 50%;
     color: white;
 }
 
